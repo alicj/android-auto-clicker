@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/start_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start"/>
+
+    <!--<Button-->
+        <!--android:id="@+id/setting_id"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/setting"/>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/stop_id"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/stop"/>-->
+
+    <Button
+        android:id="@+id/cap_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cap"/>
+
+    <Button
+        android:id="@+id/drag_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/drag"/>
+</LinearLayout>

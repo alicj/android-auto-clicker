@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Alic/AndroidStudioProjects/FloatingWindow/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">FloatingWindow</string>
+    <string name="cap">Capture</string>
+    <string name="drag">Drag me</string>
+    <string name="init">启动悬浮窗口</string>
+    <string name="kill">移除悬浮窗口</string>
+    <string name="setting">Setting</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>

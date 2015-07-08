@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alic/AndroidStudioProjects/FloatingWindow/app/libs/commons-lang-2.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="/Users/Alic/AndroidStudioProjects/FloatingWindow/app/build/intermediates/pre-dexed/debug/commons-lang-2.6-96825e9bb41e31992e624a9094437aa6d72a0de4.jar" />
+    </item>
+
+</items>
