@@ -17,7 +17,7 @@ The mechanism of the program is as follows:
 Even the idea of making this app into an auto-clicker is cannot be implimented due to the performance issue mentioned above.
 
 Here's a screenshot of the app:
-![screencap](https://raw.githubusercontent.com/AlicJ/android-auto-clicker/master/img.png "screencap")
+<img src="./img.png" width="300">
 
 ## What I learnt
 However, much new knowledge are gained through this project:
