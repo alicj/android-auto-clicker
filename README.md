@@ -16,6 +16,9 @@ The mechanism of the program is as follows:
 
 Even the idea of making this app into an auto-clicker is cannot be implimented due to the performance issue mentioned above.
 
+Here's a screenshot of the app:
+![screencap](https://raw.githubusercontent.com/AlicJ/android-auto-clicker/master/img.png "screencap")
+
 ## What I learnt
 However, much new knowledge are gained through this project:
 
@@ -26,4 +29,18 @@ However, much new knowledge are gained through this project:
   `os.flush();`  
   `os.close();`  
   `sh.waitFor();`
-- 
+- mechanism behind floating window
+
+-  how to include .jar file/library in Android Studio:
+
+```
+android {
+...
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
+```
+
+- also this app prompted me to start learning android from coursera
